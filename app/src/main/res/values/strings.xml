@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Country List</string>
+    <string name="kp_locations">KP LOCATIONS</string>
+    <string name="over_20_coutries">OVER 20 COUTRIES</string>
+    <string name="supported_countries">supported countries</string>
+    <string name="kpImage">TODO</string>
+</resources>
